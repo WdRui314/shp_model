@@ -1,2 +1,4 @@
 # shp_model
-A statistical tool used to estimate the market value of pre-owned properties.
+**A statistical tool used to estimate the market value of pre-owned properties.**
+
+Abstract: In recent years, the supply and demand relationship in China’s real estate market has undergone significant changes. The ability to accurately and efficiently assess property values using data is key to adapting to the new situation. At the same time, the development of big data and artificial intelligence technologies has greatly expanded our analytical methods. Based on this, this paper utilizes big data technology to obtain multi-dimensional information of properties. It employs traditional statistical analysis methods of multiple linear regression and the modern machine learning model of random forests to study the characteristics of both in processing multi-dimensional property data. Furthermore, it explores the application effects of both methods in the mass appraisal of properties.
