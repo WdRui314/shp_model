@@ -1,0 +1,13 @@
+[
+  ".sellListContent li",
+  {
+    "title": ".info .title a",
+    "locateName": ".info .flood .positionInfo a",
+    "totalPrice": ".info .priceInfo .totalPrice span",
+    "unitPrice": ".info .priceInfo .unitPrice",
+    "houseInfo": ".info .address .houseInfo",
+    "followInfo": ".info .followInfo",
+    "tags": ".info .tag",
+    "url": [".info .title a", "::attr(href)"]
+  }
+]

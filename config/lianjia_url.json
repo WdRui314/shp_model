@@ -1,0 +1,30 @@
+[
+  "https://cd.lianjia.com/ershoufang",
+  {
+    "锦江": "/jinjiang",
+    "青羊": "/qingyang",
+    "武侯": "/wuhou",
+    "高新": "/gaoxin7",
+    "成华": "/chenghua",
+    "金牛": "/jinniu",
+    "天府新区": "/tianfuxinqu",
+    "高新西": "/gaoxinxi1",
+    "双流": "/shuangliu",
+    "温江": "/wenjiang",
+    "郫都": "/pidou",
+    "龙泉驿": "/longquanyi",
+    "新都": "/xindou",
+    "天府新区南区": "/tianfuxinqunanqu",
+    "青白江": "/qingbaijiang",
+    "都江堰": "/doujiangyan",
+    "彭州": "/pengzhou",
+    "简阳": "/jianyang",
+    "新津": "/xinjin",
+    "崇州": "/chongzhou1",
+    "大邑": "/dayi",
+    "金堂": "/jintang",
+    "蒲江": "/pujiang",
+    "邛崃": "/qionglai"
+  },
+  "/pg"
+]
